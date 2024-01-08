@@ -1,0 +1,103 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="00505601-2CB9-A1EE-AB78-6B476786C191">
+	<DocumentID>00505601-2CB9-A1EE-AB78-6B4767868191</DocumentID>
+	<Name>Untitled Application</Name>
+	<Description>Untitled Application</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-01-08T04:52:14.716</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="00505601-2CB9-A1EE-AB78-6B476789C191">
+			<DocumentID>00505601-2CB9-A1EE-AB78-6B4767898191</DocumentID>
+			<Name>My Company Untitled Application</Name>
+			<Description>My Company Untitled Application</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-01-08T04:52:14.717</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>My Company Untitled Application 1.0.0</ISVPackageFileName>
+			<ISVPackageOwner>My Company</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>Untitled Application</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="00505601-2CB9-A1EE-AB78-6B4767890191"
+			path="Untitled Application"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="00505601-2CB9-A1EE-AB78-6B4767874191">
+			<DocumentID>00505601-2CB9-A1EE-AB78-6B4767870191</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description/>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-01-08T04:52:14.716</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="00505601-2CB9-A1EE-AB78-6B4767884191">
+					<DocumentID>00505601-2CB9-A1EE-AB78-6B4767880191</DocumentID>
+					<Name>en-US</Name>
+					<Description/>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-01-08T04:52:14.715</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="00505601-2CB9-A1EE-AB78-6B4767888191"
+							path="Untitled Application/en-US_00505601-2CB9-A1EE-AB78-6B4767888191"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="00505601-2CB9-A1EE-AB78-6B4767870191"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="00505601-2CB9-A1EE-AB78-6B4767880191"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="00505601-2CB9-A1EE-AB78-6B4767878191"
+					path="Untitled Application/TranslationInformation_00505601-2CB9-A1EE-AB78-6B4767878191"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>
