@@ -5,8 +5,8 @@
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
 	RuntimeDocumentID="00505601-2CB9-A1EE-AB78-6B476786C191">
 	<DocumentID>00505601-2CB9-A1EE-AB78-6B4767868191</DocumentID>
-	<Name>Untitled Application</Name>
-	<Description>Untitled Application</Description>
+	<Name>Orders</Name>
+	<Description>Orders</Description>
 	<CreatedBy>sysadmin</CreatedBy>
 	<CreationDate>2024-01-08T04:52:14.716</CreationDate>
 	<Notes/>
@@ -25,11 +25,11 @@
 			<Notes/>
 			<BuildNumber>0</BuildNumber>
 			<GenerateModelPackage>false</GenerateModelPackage>
-			<ISVPackageFileName>My Company Untitled Application 1.0.0</ISVPackageFileName>
+			<ISVPackageFileName>My Company Orders 1.0.0</ISVPackageFileName>
 			<ISVPackageOwner>My Company</ISVPackageOwner>
 			<PackageForRuntime>true</PackageForRuntime>
 			<PostISVLoaderInformation/>
-			<Product>Untitled Application</Product>
+			<Product>Orders</Product>
 			<SupportedDeploymentSpaces
 				xmlns:cws="http://schemas.cordys.com/cws/1.0"
 				cws:type="collection:string">
@@ -44,7 +44,7 @@
 	<SourceFolder>
 		<uri
 			id="00505601-2CB9-A1EE-AB78-6B4767890191"
-			path="Untitled Application"
+			path="Orders"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
@@ -74,7 +74,7 @@
 					<Texts>
 						<uri
 							id="00505601-2CB9-A1EE-AB78-6B4767888191"
-							path="Untitled Application/en-US_00505601-2CB9-A1EE-AB78-6B4767888191"
+							path="Orders/en-US_00505601-2CB9-A1EE-AB78-6B4767888191"
 							type="com.cordys.cws.associations.MergeableAssociation"
 						/>
 					</Texts>
@@ -93,7 +93,7 @@
 			<Texts>
 				<uri
 					id="00505601-2CB9-A1EE-AB78-6B4767878191"
-					path="Untitled Application/TranslationInformation_00505601-2CB9-A1EE-AB78-6B4767878191"
+					path="Orders/TranslationInformation_00505601-2CB9-A1EE-AB78-6B4767878191"
 					type="com.cordys.cws.associations.MergeableAssociation"
 				/>
 			</Texts>
