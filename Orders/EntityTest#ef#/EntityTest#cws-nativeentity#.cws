@@ -729,7 +729,7 @@
 					<CreationDate>2024-01-18T08:17:35.412</CreationDate>
 					<Notes/>
 					<ConvertedMaxFileSize></ConvertedMaxFileSize>
-					<EnableESignature>false</EnableESignature>
+					<EnableESignature>true</EnableESignature>
 					<EnableUploadOnError>true</EnableUploadOnError>
 					<FileSizeUnit></FileSizeUnit>
 					<FileTypes></FileTypes>
@@ -1297,6 +1297,39 @@
 					<Target>
 						<uri
 							id="00505601-B21C-A1EE-AD76-809E4067FB82"
+						/>
+					</Target>
+				</Relationship>
+				<Relationship
+					type="com.cordys.entity.core.structure.relationship.Relationship"
+					typeVersion="17A97EEB-DDB4-477D-8C9F-C9238015F2A2"
+					RuntimeDocumentID="00505601-B21C-A1EE-AD76-9286EBD0FB82">
+					<DocumentID>00505601-B21C-A1EE-AD76-9286EBD0BB82</DocumentID>
+					<Name>Signatures</Name>
+					<Description>Signatures</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-01-18T08:19:40.358</CreationDate>
+					<Notes/>
+					<ExposeForReuse>false</ExposeForReuse>
+					<HasFK>true</HasFK>
+					<MaxCardinality>-1</MaxCardinality>
+					<MinCardinality>0</MinCardinality>
+					<OwnsJoinTable>true</OwnsJoinTable>
+					<RelationshipType>ToChild</RelationshipType>
+					<RestrictDeleteTarget>false</RestrictDeleteTarget>
+					<BuildingBlock>
+						<uri
+							id="00505601-B21C-A1EE-AD76-7F201867BB82"
+						/>
+					</BuildingBlock>
+					<DisplayName/>
+					<ForeignKeyProperties/>
+					<Inverse/>
+					<Original/>
+					<ReferringProperties/>
+					<Target>
+						<uri
+							id="00505601-B21C-A1EE-AD76-9286EBD03B82"
 						/>
 					</Target>
 				</Relationship>
