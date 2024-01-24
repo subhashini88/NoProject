@@ -5,8 +5,8 @@
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
 	RuntimeDocumentID="00505601-2CB9-A1EE-AD3C-ADC573098191">
 	<DocumentID>00505601-2CB9-A1EE-AD3C-ADC573094191</DocumentID>
-	<Name>App99</Name>
-	<Description>App99</Description>
+	<Name>App9925</Name>
+	<Description>App9925</Description>
 	<CreatedBy>sysadmin</CreatedBy>
 	<CreationDate>2024-01-17T08:12:27.098</CreationDate>
 	<Notes/>
@@ -44,7 +44,7 @@
 	<SourceFolder>
 		<uri
 			id="00505601-2CB9-A1EE-AD3C-ADC57308C191"
-			path="App99"
+			path="App9925"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
@@ -74,7 +74,7 @@
 					<Texts>
 						<uri
 							id="00505601-2CB9-A1EE-AD3C-ADC573060191"
-							path="App99/en-US_00505601-2CB9-A1EE-AD3C-ADC573060191"
+							path="App9925/en-US_00505601-2CB9-A1EE-AD3C-ADC573060191"
 							type="com.cordys.cws.associations.MergeableAssociation"
 						/>
 					</Texts>
@@ -93,7 +93,7 @@
 			<Texts>
 				<uri
 					id="00505601-2CB9-A1EE-AD3C-ADC573070191"
-					path="App99/TranslationInformation_00505601-2CB9-A1EE-AD3C-ADC573070191"
+					path="App9925/TranslationInformation_00505601-2CB9-A1EE-AD3C-ADC573070191"
 					type="com.cordys.cws.associations.MergeableAssociation"
 				/>
 			</Texts>
