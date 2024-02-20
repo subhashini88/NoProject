@@ -12,7 +12,7 @@
 	<Notes/>
 	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
 	<ExposeForReuse>false</ExposeForReuse>
-	<type>Internal</type>
+	<type>Application</type>
 	<Subroles/>
 	<Superroles/>
 	<configuredTasks/>
