@@ -845,7 +845,7 @@
 		</MarkupFileBuildingBlock>
 		<TrackingBuildingBlock
 			type="com.cordys.entity.buildingblocks.tracking.TrackingBuildingBlock"
-			typeVersion="E71CDA2C-7846-4CDA-BCB3-A75D3AD4A9FE"
+			typeVersion="3879939F-3AE9-48DF-A070-A7056C85FB88"
 			RuntimeDocumentID="00505601-B21C-A1EE-AD76-809E408CBB82">
 			<DocumentID>00505601-B21C-A1EE-AD76-809E408C7B82</DocumentID>
 			<Name>Tracking</Name>
@@ -860,6 +860,32 @@
 			</Entity>
 			<InlinedEntities/>
 			<Original/>
+			<OwnedActions>
+				<TrackingAction
+					type="com.cordys.entity.buildingblocks.tracking.TrackingAction"
+					RuntimeDocumentID="00505601-2CB9-A1EE-B7DA-1DE5CB070191">
+					<DocumentID>00505601-2CB9-A1EE-B7DA-1DE5CB06C191</DocumentID>
+					<Name>MarkAsRead</Name>
+					<Description/>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-03-11T05:30:33.37</CreationDate>
+					<Notes/>
+					<ActionDisplayName>MarkAsRead</ActionDisplayName>
+					<ActionId>F53249C9B9774D49A052D16FBB9D7624</ActionId>
+				</TrackingAction>
+				<TrackingAction
+					type="com.cordys.entity.buildingblocks.tracking.TrackingAction"
+					RuntimeDocumentID="00505601-2CB9-A1EE-B7DA-1DE5CB090191">
+					<DocumentID>00505601-2CB9-A1EE-B7DA-1DE5CB08C191</DocumentID>
+					<Name>MarkAsUnread</Name>
+					<Description/>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-03-11T05:30:33.381</CreationDate>
+					<Notes/>
+					<ActionDisplayName>MarkAsUnread</ActionDisplayName>
+					<ActionId>B3EC8D7188F94F4A90C73D7378BEF9A9</ActionId>
+				</TrackingAction>
+			</OwnedActions>
 			<Properties>
 				<Property
 					type="com.cordys.entity.core.structure.property.Property"
