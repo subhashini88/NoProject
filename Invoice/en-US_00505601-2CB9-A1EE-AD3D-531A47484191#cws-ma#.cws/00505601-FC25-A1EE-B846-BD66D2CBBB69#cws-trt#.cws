@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-FC25-A1EE-B846-BD66D2CBFB69">
+	<DocumentID>00505601-FC25-A1EE-B846-BD66D2CBBB69</DocumentID>
+	<Name>00505601-FC25-A1EE-B846-BD66D2CBBB69</Name>
+	<Description>Default List1</Description>
+	<CreatedBy>test1@AWP</CreatedBy>
+	<CreationDate>2024-03-13T09:20:58.213</CreationDate>
+	<Notes/>
+	<Text>Default List1</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1EE-AD3D-531A4748C191"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-FC25-A1EE-B846-BD66D2CB3B69"
+		/>
+	</TextIdentifier>
+</TranslatedText>
