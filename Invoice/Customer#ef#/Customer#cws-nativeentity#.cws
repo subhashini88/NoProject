@@ -27,6 +27,9 @@
 		<uri
 			id="00505601-FC25-A1EE-B9AA-50E99E837B69"
 		/>
+		<uri
+			id="00505601-FC25-A1EE-B9AA-38F5509BFB69"
+		/>
 	</BuildingBlocks>
 	<DBObject/>
 	<DisplayName>
@@ -864,6 +867,72 @@
 				</Title>
 			</Title>
 		</TitleBuildingBlock>
+		<DiscussionBuildingBlock
+			type="com.cordys.entity.buildingblocks.discussion.DiscussionBuildingBlock"
+			typeVersion="C7032D98-B458-4A7B-AF66-4008417828BA"
+			RuntimeDocumentID="00505601-FC25-A1EE-B9AA-38F5509C3B69">
+			<DocumentID>00505601-FC25-A1EE-B9AA-38F5509BFB69</DocumentID>
+			<Name>Discussion</Name>
+			<Description>Discussion</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-03-20T11:08:16.971</CreationDate>
+			<Notes/>
+			<Discussion/>
+			<Entity>
+				<uri
+					id="00505601-FC25-A1EE-B9A9-AF8FE007BB69"
+				/>
+			</Entity>
+			<InlinedEntities/>
+			<Original/>
+			<OwnedActions>
+				<DiscussionStaticAction
+					type="com.cordys.entity.buildingblocks.discussion.DiscussionStaticAction"
+					RuntimeDocumentID="F729EF351C5749B5AF28917734591802">
+					<DocumentID>00505601-FC25-A1EE-B9AA-38F5509B7B69</DocumentID>
+					<Name>Addcomment</Name>
+					<Description>Add comment</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-03-20T11:08:16.964</CreationDate>
+					<Notes/>
+				</DiscussionStaticAction>
+			</OwnedActions>
+			<Relationships>
+				<Relationship
+					type="com.cordys.entity.core.structure.relationship.Relationship"
+					typeVersion="17A97EEB-DDB4-477D-8C9F-C9238015F2A2"
+					RuntimeDocumentID="00505601-FC25-A1EE-B9AA-38F5509B3B69">
+					<DocumentID>00505601-FC25-A1EE-B9AA-38F5509AFB69</DocumentID>
+					<Name>Discussions</Name>
+					<Description>Discussions</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-03-20T11:08:16.965</CreationDate>
+					<Notes/>
+					<ExposeForReuse>false</ExposeForReuse>
+					<HasFK>true</HasFK>
+					<MaxCardinality>-1</MaxCardinality>
+					<MinCardinality>0</MinCardinality>
+					<OwnsJoinTable>true</OwnsJoinTable>
+					<RelationshipType>ToChild</RelationshipType>
+					<RestrictDeleteTarget>false</RestrictDeleteTarget>
+					<BuildingBlock>
+						<uri
+							id="00505601-FC25-A1EE-B9AA-38F5509BFB69"
+						/>
+					</BuildingBlock>
+					<DisplayName/>
+					<ForeignKeyProperties/>
+					<Inverse/>
+					<Original/>
+					<ReferringProperties/>
+					<Target>
+						<uri
+							id="00505601-FC25-A1EE-B9AA-38F5509A7B69"
+						/>
+					</Target>
+				</Relationship>
+			</Relationships>
+		</DiscussionBuildingBlock>
 	</OwnedBuildingBlocks>
 	<ParentRelationship/>
 	<Supertype/>
