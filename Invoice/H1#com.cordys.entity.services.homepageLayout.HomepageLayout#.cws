@@ -11,7 +11,7 @@
 	<CreationDate>2024-03-13T09:29:44.224</CreationDate>
 	<Notes/>
 	<AllowUpdateSecurityViaAdmin>false</AllowUpdateSecurityViaAdmin>
-	<Definition>{&quot;layoutType&quot;:&quot;homePage&quot;,&quot;id&quot;:&quot;00505601-FC25-A1EE-B846-BD66D2C47B69&quot;,&quot;layoutPanelType&quot;:&quot;FitToScreen&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;9e3841963d1b9132445e5127ac220b13&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;tabs&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;d6930110104d0fa38a4d42c16d7dd255&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;fee4fa9abfe8035a2ddb0b8bf736d74a&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;303f91d07b9f773bdc263c1b9205f75b&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;052496a81d2b4b898961dc6bcd8d6ebd&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;53eb440fb42cc3c704465c44645253d7&quot;,&quot;nodes&quot;:[]}]}]}]}</Definition>
+	<Definition>{&quot;layoutType&quot;:&quot;homePage&quot;,&quot;id&quot;:&quot;00505601-FC25-A1EE-B846-BD66D2C47B69&quot;,&quot;layoutPanelType&quot;:&quot;FitToScreen&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;column&quot;,&quot;panelId&quot;:null,&quot;size&quot;:50,&quot;id&quot;:&quot;4f9f36fbc13b5da1a45dfafcd526cc66&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;4d311a8b3a1d4c65ad9ea7428069fe8d&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;15f2f4cf3bd5654d3c9e8cdb79716c0b&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;d590a0852c1b29233a32e54e7656f4ef&quot;,&quot;nodes&quot;:[]}]}]},{&quot;type&quot;:&quot;column&quot;,&quot;panelId&quot;:null,&quot;size&quot;:50,&quot;id&quot;:&quot;31c80d4f0cf7d97ebaea4fea79ff7e74&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;9e3841963d1b9132445e5127ac220b13&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;tabs&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;d6930110104d0fa38a4d42c16d7dd255&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;fee4fa9abfe8035a2ddb0b8bf736d74a&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;303f91d07b9f773bdc263c1b9205f75b&quot;,&quot;nodes&quot;:[]},{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;052496a81d2b4b898961dc6bcd8d6ebd&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;53eb440fb42cc3c704465c44645253d7&quot;,&quot;nodes&quot;:[]}]}]}]}]}</Definition>
 	<HelpURL></HelpURL>
 	<HideCreateAction>false</HideCreateAction>
 	<IncludeInCreate>false</IncludeInCreate>
@@ -88,6 +88,33 @@
 			<ModelerId>052496a81d2b4b898961dc6bcd8d6ebd</ModelerId>
 			<SourceId>C5EC2E3612914048B4D6751B2669B987</SourceId>
 			<SourceName>iHub</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName/>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation/>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
+			RuntimeDocumentID="00505601-FC25-A1EE-B9AA-38F550A93B69">
+			<DocumentID>00505601-FC25-A1EE-B9AA-38F550A8FB69</DocumentID>
+			<Name>Layout</Name>
+			<Description/>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-03-20T11:05:31.223</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;E2BB53FFB16D4060818D63B07CA0E8E4&quot;,&quot;sourceName&quot;:&quot;Layout&quot;,&quot;chrome&quot;:&quot;none&quot;,&quot;id&quot;:&quot;15f2f4cf3bd5654d3c9e8cdb79716c0b&quot;,&quot;imageQualifiedName&quot;:null,&quot;properties&quot;:[{&quot;name&quot;:&quot;layoutId&quot;,&quot;value&quot;:&quot;LayoutPanel&quot;},{&quot;name&quot;:&quot;layoutContainerVersionId&quot;,&quot;value&quot;:&quot;0&quot;}]}</Definition>
+			<DisplayName>Layout</DisplayName>
+			<ModelerId>15f2f4cf3bd5654d3c9e8cdb79716c0b</ModelerId>
+			<SourceId>E2BB53FFB16D4060818D63B07CA0E8E4</SourceId>
+			<SourceName>Layout</SourceName>
 			<ActionBarAssociation/>
 			<CustomScript/>
 			<FormAssociation/>
