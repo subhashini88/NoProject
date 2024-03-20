@@ -1,0 +1,46 @@
+
+<EntityNative
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.nativ.EntityNative"
+	typeVersion="06E7E4B3-21E5-4E89-A832-02EB7CCE511E"
+	RuntimeDocumentID="ee5d7e78-9641-a1ee-b80e-6520fe81a91c">
+	<DocumentID>ee5d7e78-9641-a1ee-b80e-6520fe43291c</DocumentID>
+	<Name>SubType1</Name>
+	<Description>SubType1</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-03-12T06:27:41.334</CreationDate>
+	<Notes/>
+	<ExposeForReuse>false</ExposeForReuse>
+	<IsAbstract>false</IsAbstract>
+	<IsEisNativeEntity>false</IsEisNativeEntity>
+	<IsExternallyManaged>false</IsExternallyManaged>
+	<IsSingleton>false</IsSingleton>
+	<RepositoryConnectionId></RepositoryConnectionId>
+	<TableName></TableName>
+	<BuildingBlocks/>
+	<DBObject/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="ee5d7e78-9641-a1ee-b80e-682fc99080f2">
+			<DocumentID>ee5d7e78-9641-a1ee-b80e-682fc94a80f2</DocumentID>
+			<Name>ee5d7e78-9641-a1ee-b80e-682fc94a80f2</Name>
+			<Description>ee5d7e78-9641-a1ee-b80e-682fc94a80f2</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-03-12T06:27:41.334</CreationDate>
+			<Notes/>
+			<DeveloperText>SubType1</DeveloperText>
+			<Identifier/>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<OwnedBuildingBlocks/>
+	<ParentRelationship/>
+	<Supertype>
+		<uri
+			id="1a518a93-8dcf-a1ee-b80e-48c6e9eebe16"
+		/>
+	</Supertype>
+	<TranslatableDisplayName/>
+</EntityNative>
