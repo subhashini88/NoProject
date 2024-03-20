@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-FC25-A1EE-B9AA-645013A1BB69">
+	<DocumentID>00505601-FC25-A1EE-B9AA-645013A17B69</DocumentID>
+	<Name>00505601-FC25-A1EE-B9AA-645013A17B69</Name>
+	<Description>S3</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-03-20T11:07:05.345</CreationDate>
+	<Notes/>
+	<Text>S3</Text>
+	<Language>
+		<uri
+			id="00505601-2CB9-A1EE-AB78-6B4767880191"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-FC25-A1EE-B9AA-645013A0FB69"
+		/>
+	</TextIdentifier>
+</TranslatedText>
