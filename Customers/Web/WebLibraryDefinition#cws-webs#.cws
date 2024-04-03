@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="00505601-2CB9-A1EE-BC5F-B2F680558191">
+	<DocumentID>00505601-2CB9-A1EE-BC5F-B2F680554191</DocumentID>
+	<Name>WebLibraryDefinition</Name>
+	<Description>WebLibraryDefinition</Description>
+	<CreatedBy>test2@AWP</CreatedBy>
+	<CreationDate>2024-04-03T06:03:23.271</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="00505601-2CB9-A1EE-BC5F-B2F680568191"
+			path="Customers/Web"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>
